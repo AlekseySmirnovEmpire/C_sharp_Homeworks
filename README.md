@@ -16,4 +16,9 @@ __Game Lost Screen:__
 ## How to play
 _Just move the cursore to the left/right to control the red board and don't let the blue box to fall down on the screen!"_
 
+## What's new?
+|Project version|Added|
+|---------------|-----|
+|1.0.0|Project has been created and init to GitHub!|
+
 [Go to TOP](#TOP)
