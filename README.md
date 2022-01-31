@@ -22,3 +22,28 @@ _Just move the cursore to the left/right to control the red board and don't let 
 |1.0.0|Project has been created and init to GitHub!|
 
 [Go to TOP](#TOP)
+
+# Ez text redactor
+## What's it?
+This is my app in .Net Framework, which can open/save/edit .txt files! It's not for commercial but for my own experience!
+## Technologies
+-[x] C#
+-[x] .Net Framework
+-[x] WPF
+-[x] SQL
+## Want to download?
+_You can do it from [TextEditor](https://github.com/AlekseySmirnovEmpire/C_sharp_Homeworks/tree/main/Example_App) <- this!_
+
+##ScreenShots
+
+__Main Screen:__
+![Main Screen](https://sun9-36.userapi.com/impg/FcI1wIYVKfgUMnY7P8bH9cljNNdqskqDGvaEfQ/__1VJRUylIQ.jpg?size=935x592&quality=96&sign=41a7c76e8a71fb740a8c7e27165b82e6&type=album)
+__Editor Screen:__
+![Editor](https://sun9-8.userapi.com/impg/lm1NsZB0xwX8ok4V8HXkSIbxX6VcQXIrSyEe9Q/vtXO2LVtvL8.jpg?size=942x590&quality=96&sign=1fad72dd6a0e86bf5df302e32b0c4725&type=album)
+__Data Base View:__
+![Data Base](https://sun9-81.userapi.com/impg/mbCLR271Os0NigGDBz9yAztLTJJI7sTE-fEaXQ/GxVFrx_OHp8.jpg?size=935x589&quality=96&sign=f33d8590037187cc9d543be052f31116&type=album)
+
+## What's new?
+|Project version|Date|Added|
+|---------------|----|-----|
+|1.0.0|01.02.22|Project has been just added|
